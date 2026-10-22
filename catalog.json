@@ -1,0 +1,429 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-22T00:00:00Z",
+  "methods": [
+    {
+      "key": "debt",
+      "name": "Bola de nieve o avalancha",
+      "summary": "Organiza tus deudas y concentra el dinero extra en una cada vez.",
+      "steps": [
+        "Anota saldo, cuota e interés de cada deuda.",
+        "Paga el mínimo de todas.",
+        "Dirige el extra a la deuda elegida.",
+        "Al terminar, pasa esa cuota a la siguiente deuda."
+      ],
+      "source_url": "https://n26.com/es-es/blog/metodo-bola-de-nieve-vs-avalancha",
+      "rules": []
+    },
+    {
+      "key": "zero_based",
+      "name": "Presupuesto base cero",
+      "summary": "Asigna cada euro a una finalidad antes de empezar el mes.",
+      "steps": [
+        "Estima los ingresos del mes.",
+        "Asigna importes a gastos, ahorro y deuda.",
+        "Ajusta hasta que ingresos menos asignaciones sea cero.",
+        "Revisa y corrige el presupuesto durante el mes."
+      ],
+      "source_url": "https://ownyourfuture.vanguard.com/content/es/learn/financial-planning/identify-your-personal-budgeting-style.html",
+      "rules": []
+    },
+    {
+      "key": "70_20_10",
+      "name": "Regla 70/20/10",
+      "summary": "Distribuye los ingresos con más margen para necesidades elevadas.",
+      "steps": [
+        "Reserva hasta el 70 % para gastos.",
+        "Destina el 20 % al ahorro o a deuda.",
+        "Asigna el 10 % restante a otros objetivos.",
+        "Adapta los porcentajes a tu realidad."
+      ],
+      "source_url": "https://finantres.com/metodo-ahorro-70-20-10/",
+      "rules": []
+    },
+    {
+      "key": "envelopes",
+      "name": "Método de sobres",
+      "summary": "Pon un límite de gasto por categoría y controla lo que queda.",
+      "steps": [
+        "Elige categorías discrecionales.",
+        "Fija un límite mensual para cada una.",
+        "Registra cada compra en su sobre.",
+        "Deja de gastar cuando el sobre se agote."
+      ],
+      "source_url": "https://www.bbva.com/es/es/salud-financiera/metodos-de-ahorro-mas-sencillos-y-efectivos/",
+      "rules": []
+    },
+    {
+      "key": "pay_first",
+      "name": "Págate primero",
+      "summary": "Aparta el ahorro al cobrar para que no dependa de lo que quede al final.",
+      "steps": [
+        "Elige una cantidad o porcentaje sostenible.",
+        "Programa una transferencia el día de cobro.",
+        "Mantén el ahorro separado del saldo diario.",
+        "Revisa la cantidad si cambian tus circunstancias."
+      ],
+      "source_url": "https://www.kiplinger.com/personal-finance/family-savings/types-of-budgeting-methods",
+      "rules": []
+    },
+    {
+      "key": "50_30_20",
+      "name": "Regla 50/30/20",
+      "summary": "Usa una pauta orientativa para necesidades, deseos y ahorro.",
+      "steps": [
+        "Calcula el ingreso neto mensual.",
+        "Orienta hasta el 50 % a necesidades.",
+        "Limita deseos alrededor del 30 %.",
+        "Reserva el 20 % para ahorro y deuda."
+      ],
+      "source_url": "https://www.bankinter.com/blog/finanzas-personales/regla-50-20-30",
+      "rules": []
+    },
+    {
+      "key": "kakebo",
+      "name": "Kakebo",
+      "summary": "Registra los gastos y revisa semanalmente dónde puedes ajustar.",
+      "steps": [
+        "Anota ingresos y gastos previstos.",
+        "Registra cada gasto a diario.",
+        "Clasifica gastos por tipo.",
+        "Revisa cada semana y fija un ajuste concreto."
+      ],
+      "source_url": "https://taxdown.es/blog/metodo-kakebo",
+      "rules": []
+    },
+    {
+      "key": "emergency_fund",
+      "name": "Fondo de emergencia",
+      "summary": "Construye una reserva accesible para imprevistos esenciales.",
+      "steps": [
+        "Calcula tus gastos esenciales mensuales.",
+        "Fija una meta inicial de un mes.",
+        "Aporta una cantidad periódica en una cuenta accesible.",
+        "Amplía gradualmente la reserva a entre tres y seis meses."
+      ],
+      "source_url": "https://www.creditkarma.com/es/consejo/i/cantidad-del-fondo-de-emergencia",
+      "rules": []
+    }
+  ],
+  "tips": [
+    {
+      "title": "Ordena tus deudas",
+      "text": "Paga el mínimo en todas y dirige el extra a una sola: avalancha para pagar menos intereses o bola de nieve para lograr victorias rápidas.",
+      "source_url": "https://n26.com/es-es/blog/metodo-bola-de-nieve-vs-avalancha",
+      "keywords": [
+        "prestamo",
+        "deuda",
+        "credito",
+        "hipoteca"
+      ]
+    },
+    {
+      "title": "Planifica los gastos de tu mascota",
+      "text": "Compra pienso a granel, prioriza revisiones preventivas y compara seguros veterinarios.",
+      "source_url": "https://www.ocu.org/consumo-familia/derechos-consumidor/consejos/consejos-ahorro/haz-numeros",
+      "keywords": [
+        "mascota"
+      ]
+    },
+    {
+      "title": "Paga solo el deporte que usas",
+      "text": "Valora bonos por uso o actividades municipales y revisa las cuotas que no aprovechas.",
+      "source_url": "https://www.openbank.es/open-to-learn/reto-ahorro-30-dias",
+      "keywords": [
+        "deporte",
+        "gimnasio"
+      ]
+    },
+    {
+      "title": "Espacia los gastos de cuidado personal",
+      "text": "Planifica estos servicios y alarga el intervalo entre visitas cuando te resulte cómodo.",
+      "source_url": "https://institutosantalucia.es/actualidad/ahorro/gastos-hormiga-que-son-y-como-identificarlos/",
+      "keywords": [
+        "cuidado",
+        "belleza",
+        "peluqueria"
+      ]
+    },
+    {
+      "title": "Fija un presupuesto anual de regalos",
+      "text": "Reparte un límite anual entre ocasiones y ahorra una cantidad mensual para cubrirlo.",
+      "source_url": "https://www.bankinter.com/blog/finanzas-personales/regla-50-20-30",
+      "keywords": [
+        "regalo",
+        "donacion"
+      ]
+    },
+    {
+      "title": "Planifica el menú semanal",
+      "text": "Dedica 20 minutos a preparar el menú y la lista: una familia puede orientarse con unos 25 € por semana.",
+      "source_url": "https://www.moncloa.com/2023/10/23/10-consejos-de-la-ocu-para-ahorrar-en-tu-carro-de-la-compra-2242106/",
+      "keywords": [
+        "super",
+        "aliment",
+        "comida",
+        "mercado"
+      ]
+    },
+    {
+      "title": "Compara supermercados y precio por kilo",
+      "text": "Comparar tiendas y el precio por kilo puede revelar diferencias superiores al 30 %.",
+      "source_url": "https://www.moncloa.com/2023/10/23/10-consejos-de-la-ocu-para-ahorrar-en-tu-carro-de-la-compra-2242106/",
+      "keywords": [
+        "super",
+        "aliment",
+        "comida",
+        "mercado"
+      ]
+    },
+    {
+      "title": "Compra de temporada y con importe fijo",
+      "text": "Prioriza productos de temporada y fija un importe para la compra semanal.",
+      "source_url": "https://n26.com/es-es/blog/como-ahorrar-dinero-en-el-super",
+      "keywords": [
+        "super",
+        "aliment",
+        "comida",
+        "mercado"
+      ]
+    },
+    {
+      "title": "Reduce las comidas fuera",
+      "text": "Cocinar en casa y llevar tupper algunos días reduce el gasto en restaurantes.",
+      "source_url": "https://institutosantalucia.es/actualidad/ahorro/gastos-hormiga-que-son-y-como-identificarlos/",
+      "keywords": [
+        "restaur",
+        "bar",
+        "cafe",
+        "delivery",
+        "domicilio",
+        "comer"
+      ]
+    },
+    {
+      "title": "Cuidado con la comida a domicilio",
+      "text": "Prueba un reto de 30 días reduciendo los pedidos a domicilio.",
+      "source_url": "https://www.openbank.es/open-to-learn/reto-ahorro-30-dias",
+      "keywords": [
+        "restaur",
+        "bar",
+        "cafe",
+        "delivery",
+        "domicilio",
+        "comer"
+      ]
+    },
+    {
+      "title": "Revisa tus suscripciones",
+      "text": "Cancela las que no usas y rota plataformas para evitar pagar varias a la vez.",
+      "source_url": "https://www.openbank.es/open-to-learn/reto-ahorro-30-dias",
+      "keywords": [
+        "suscrip",
+        "streaming",
+        "plataforma",
+        "netflix",
+        "spotify"
+      ]
+    },
+    {
+      "title": "Presupuesto fijo para ocio",
+      "text": "Define un techo semanal o mensual para el ocio y ajústate a él.",
+      "source_url": "https://www.bankinter.com/blog/finanzas-personales/regla-50-20-30",
+      "keywords": [
+        "ocio",
+        "viaje",
+        "entreten",
+        "cine",
+        "fiesta"
+      ]
+    },
+    {
+      "title": "Aplica la regla de las 24 horas",
+      "text": "Espera 24 horas antes de comprar algo no esencial para evitar compras impulsivas.",
+      "source_url": "https://institutosantalucia.es/actualidad/ahorro/gastos-hormiga-que-son-y-como-identificarlos/",
+      "keywords": [
+        "ropa",
+        "compras",
+        "moda",
+        "tecnolog",
+        "capricho",
+        "amazon"
+      ]
+    },
+    {
+      "title": "Ajusta el transporte",
+      "text": "Valora el transporte público, compartir coche y agrupar viajes para reducir desplazamientos.",
+      "source_url": "https://www.bankinter.com/blog/finanzas-personales/regla-50-20-30",
+      "keywords": [
+        "transport",
+        "gasolina",
+        "gasolin",
+        "combustible",
+        "coche",
+        "taxi",
+        "parking"
+      ]
+    },
+    {
+      "title": "Revisa tus tarifas de luz, gas y telefonía",
+      "text": "Comparar tarifas puede ahorrar alrededor de 200 € al año en cada servicio.",
+      "source_url": "https://www.ocu.org/consumo-familia/derechos-consumidor/consejos/consejos-ahorro/haz-numeros",
+      "keywords": [
+        "suministro",
+        "luz",
+        "gas",
+        "agua",
+        "telefon",
+        "movil",
+        "internet",
+        "factura"
+      ]
+    },
+    {
+      "title": "Renegocia los gastos fijos",
+      "text": "Si las necesidades superan el 55 % de tus ingresos, revisa alquiler, seguros y otros gastos fijos.",
+      "source_url": "https://www.bankinter.com/blog/finanzas-personales/regla-50-20-30",
+      "keywords": [
+        "vivienda",
+        "alquiler",
+        "seguro",
+        "comunidad"
+      ]
+    },
+    {
+      "title": "Registra todos los gastos",
+      "text": "Anota cada gasto para conocer tus hábitos y detectar oportunidades de ahorro.",
+      "source_url": "https://finary.com/es/blog/finance-perso/budget/presupuesto-50-30-20-la-regla-para-administrar-su-dinero",
+      "keywords": []
+    },
+    {
+      "title": "Págate primero",
+      "text": "Programa una transferencia automática al ahorro justo cuando cobres.",
+      "source_url": "https://www.kiplinger.com/personal-finance/family-savings/types-of-budgeting-methods",
+      "keywords": []
+    }
+  ],
+  "news": [
+    {
+      "title": "OCU",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://www.ocu.org/consumo-familia/derechos-consumidor/consejos/consejos-ahorro/haz-numeros",
+      "source": "ocu",
+      "published": "2026-10-22",
+      "keywords": [
+        "ocu"
+      ]
+    },
+    {
+      "title": "OCU COMPRA",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://www.moncloa.com/2023/10/23/10-consejos-de-la-ocu-para-ahorrar-en-tu-carro-de-la-compra-2242106/",
+      "source": "ocu_compra",
+      "published": "2026-10-22",
+      "keywords": [
+        "ocu"
+      ]
+    },
+    {
+      "title": "N26",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://n26.com/es-es/blog/como-ahorrar-dinero-en-el-super",
+      "source": "n26",
+      "published": "2026-10-22",
+      "keywords": [
+        "n26"
+      ]
+    },
+    {
+      "title": "OPENBANK",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://www.openbank.es/open-to-learn/reto-ahorro-30-dias",
+      "source": "openbank",
+      "published": "2026-10-22",
+      "keywords": [
+        "openbank"
+      ]
+    },
+    {
+      "title": "SANTALUCIA",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://institutosantalucia.es/actualidad/ahorro/gastos-hormiga-que-son-y-como-identificarlos/",
+      "source": "santalucia",
+      "published": "2026-10-22",
+      "keywords": [
+        "santalucia"
+      ]
+    },
+    {
+      "title": "BANKINTER",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://www.bankinter.com/blog/finanzas-personales/regla-50-20-30",
+      "source": "bankinter",
+      "published": "2026-10-22",
+      "keywords": [
+        "bankinter"
+      ]
+    },
+    {
+      "title": "BBVA",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://www.bbva.com/es/es/salud-financiera/metodos-de-ahorro-mas-sencillos-y-efectivos/",
+      "source": "bbva",
+      "published": "2026-10-22",
+      "keywords": [
+        "bbva"
+      ]
+    },
+    {
+      "title": "TAXDOWN",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://taxdown.es/blog/metodo-kakebo",
+      "source": "taxdown",
+      "published": "2026-10-22",
+      "keywords": [
+        "taxdown"
+      ]
+    },
+    {
+      "title": "VANGUARD",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://ownyourfuture.vanguard.com/content/es/learn/financial-planning/identify-your-personal-budgeting-style.html",
+      "source": "vanguard",
+      "published": "2026-10-22",
+      "keywords": [
+        "vanguard"
+      ]
+    },
+    {
+      "title": "FINANTRES",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://finantres.com/metodo-ahorro-70-20-10/",
+      "source": "finantres",
+      "published": "2026-10-22",
+      "keywords": [
+        "finantres"
+      ]
+    },
+    {
+      "title": "CREDITKARMA",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://www.creditkarma.com/es/consejo/i/cantidad-del-fondo-de-emergencia",
+      "source": "creditkarma",
+      "published": "2026-10-22",
+      "keywords": [
+        "creditkarma"
+      ]
+    },
+    {
+      "title": "N26 DEUDAS",
+      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "url": "https://n26.com/es-es/blog/metodo-bola-de-nieve-vs-avalancha",
+      "source": "n26_deudas",
+      "published": "2026-10-22",
+      "keywords": [
+        "n26"
+      ]
+    }
+  ]
+}
