@@ -306,123 +306,109 @@
   ],
   "news": [
     {
-      "title": "OCU",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
-      "url": "https://www.ocu.org/consumo-familia/derechos-consumidor/consejos/consejos-ahorro/haz-numeros",
-      "source": "ocu",
-      "published": "2026-10-22",
+      "published": "2026-06-20",
+      "source": "iProfesional",
+      "title": "Kakebo: el método japonés para ahorrar dinero",
+      "url": "https://www.iprofesional.com/finanzas/400644-kakebo-el-metodo-japones-para-ahorrar-dinero",
+      "summary": "Registrar cada gasto a diario y revisarlo cada semana y cada mes para entender en qué se va el dinero.",
       "keywords": [
-        "ocu"
+        "ocio",
+        "restaurantes",
+        "ropa",
+        "suscripciones"
       ]
     },
     {
-      "title": "OCU COMPRA",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
+      "published": "2025-11-17",
+      "source": "Merca2",
+      "title": "El truco de la OCU para ahorrar 2.000 € anuales en la compra",
+      "url": "https://www.merca2.es/2025/11/17/truco-ocu-ahorrar-anuales-compra-2323994/",
+      "summary": "La OCU calcula que elegir bien el supermercado puede suponer hasta 2.000 € al año.",
+      "keywords": [
+        "supermercado",
+        "alimentacion"
+      ]
+    },
+    {
+      "published": "2025-11-03",
+      "source": "El Diario (Ecuador)",
+      "title": "El método 60/20/20 se adapta a hogares con ingresos variables y familias endeudadas",
+      "url": "https://www.eldiario.ec/negocios/el-metodo-60-20-20-se-adapta-a-hogares-con-ingresos-variables-y-familias-endeudadas-03112025/",
+      "summary": "Una variante del 50/30/20 para quien tiene ingresos irregulares o deudas: partir del mes más bajo y no eliminar nunca el ahorro.",
+      "keywords": [
+        "prestamo",
+        "deuda",
+        "vivienda"
+      ]
+    },
+    {
+      "published": "2025-09-14",
+      "source": "Merca2",
+      "title": "La OCU revela las claves para que las familias con ingresos bajos ahorren hasta 2.500 € anuales",
+      "url": "https://www.merca2.es/2025/09/14/la-ocu-2231011/",
+      "summary": "Recomendaciones de la OCU sobre compra, suministros y servicios para hogares con ingresos ajustados.",
+      "keywords": [
+        "supermercado",
+        "suministros",
+        "telefonia"
+      ]
+    },
+    {
+      "published": "2025-06-20",
+      "source": "El Diario (Ecuador)",
+      "title": "Estrategias para pagar deudas: bola de nieve o avalancha",
+      "url": "https://www.eldiario.ec/negocios/estrategias-para-pagar-deudas-bola-de-nieve-o-avalancha-20062025/",
+      "summary": "Pagar primero la deuda más pequeña para ganar motivación o la de mayor interés para pagar menos.",
+      "keywords": [
+        "prestamo",
+        "deuda"
+      ]
+    },
+    {
+      "published": "2025-06-12",
+      "source": "El Diario (Ecuador)",
+      "title": "Claves para gestionar gastos fijos y variables en la economía del hogar",
+      "url": "https://www.eldiario.ec/negocios/claves-para-gestionar-gastos-fijos-y-variables-en-la-economia-del-hogar-12062025/",
+      "summary": "Distinguir gastos fijos, variables necesarios y discrecionales; los discrecionales son los primeros en recortarse.",
+      "keywords": [
+        "vivienda",
+        "suministros",
+        "seguro",
+        "ocio"
+      ]
+    },
+    {
+      "published": "2025-05-19",
+      "source": "Moncloa.com",
+      "title": "La OCU te enseña a ahorrar 100 euros al mes en la compra con 5 trucos fáciles",
+      "url": "https://www.moncloa.com/2025/05/19/ocu-ahorrar-100-euros-al-mes-3230587/",
+      "summary": "Planificar el menú, comparar precio por kilo y elegir productos de temporada.",
+      "keywords": [
+        "supermercado",
+        "alimentacion"
+      ]
+    },
+    {
+      "published": "2025-02-16",
+      "source": "El Imparcial",
+      "title": "Cómo reducir gastos hormiga y ahorrar más cada mes",
+      "url": "https://www.elimparcial.com/dinero/2025/02/16/como-reducir-gastos-hormiga-y-ahorrar-mas-cada-mes/",
+      "summary": "Pequeños gastos frecuentes (cafés, apps, comisiones) que sumados pesan en el presupuesto, y cómo detectarlos.",
+      "keywords": [
+        "restaurantes",
+        "suscripciones",
+        "ocio"
+      ]
+    },
+    {
+      "published": "2023-10-23",
+      "source": "Moncloa.com",
+      "title": "Estos son los 10 consejos de la OCU para ahorrar en tu carro de la compra",
       "url": "https://www.moncloa.com/2023/10/23/10-consejos-de-la-ocu-para-ahorrar-en-tu-carro-de-la-compra-2242106/",
-      "source": "ocu_compra",
-      "published": "2026-10-22",
+      "summary": "Planificar 20 minutos a la semana, comparar establecimientos (más de un 30 % de diferencia) y precio por kilo.",
       "keywords": [
-        "ocu"
-      ]
-    },
-    {
-      "title": "N26",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
-      "url": "https://n26.com/es-es/blog/como-ahorrar-dinero-en-el-super",
-      "source": "n26",
-      "published": "2026-10-22",
-      "keywords": [
-        "n26"
-      ]
-    },
-    {
-      "title": "OPENBANK",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
-      "url": "https://www.openbank.es/open-to-learn/reto-ahorro-30-dias",
-      "source": "openbank",
-      "published": "2026-10-22",
-      "keywords": [
-        "openbank"
-      ]
-    },
-    {
-      "title": "SANTALUCIA",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
-      "url": "https://institutosantalucia.es/actualidad/ahorro/gastos-hormiga-que-son-y-como-identificarlos/",
-      "source": "santalucia",
-      "published": "2026-10-22",
-      "keywords": [
-        "santalucia"
-      ]
-    },
-    {
-      "title": "BANKINTER",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
-      "url": "https://www.bankinter.com/blog/finanzas-personales/regla-50-20-30",
-      "source": "bankinter",
-      "published": "2026-10-22",
-      "keywords": [
-        "bankinter"
-      ]
-    },
-    {
-      "title": "BBVA",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
-      "url": "https://www.bbva.com/es/es/salud-financiera/metodos-de-ahorro-mas-sencillos-y-efectivos/",
-      "source": "bbva",
-      "published": "2026-10-22",
-      "keywords": [
-        "bbva"
-      ]
-    },
-    {
-      "title": "TAXDOWN",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
-      "url": "https://taxdown.es/blog/metodo-kakebo",
-      "source": "taxdown",
-      "published": "2026-10-22",
-      "keywords": [
-        "taxdown"
-      ]
-    },
-    {
-      "title": "VANGUARD",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
-      "url": "https://ownyourfuture.vanguard.com/content/es/learn/financial-planning/identify-your-personal-budgeting-style.html",
-      "source": "vanguard",
-      "published": "2026-10-22",
-      "keywords": [
-        "vanguard"
-      ]
-    },
-    {
-      "title": "FINANTRES",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
-      "url": "https://finantres.com/metodo-ahorro-70-20-10/",
-      "source": "finantres",
-      "published": "2026-10-22",
-      "keywords": [
-        "finantres"
-      ]
-    },
-    {
-      "title": "CREDITKARMA",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
-      "url": "https://www.creditkarma.com/es/consejo/i/cantidad-del-fondo-de-emergencia",
-      "source": "creditkarma",
-      "published": "2026-10-22",
-      "keywords": [
-        "creditkarma"
-      ]
-    },
-    {
-      "title": "N26 DEUDAS",
-      "summary": "Artículo de referencia sobre ahorro y finanzas personales.",
-      "url": "https://n26.com/es-es/blog/metodo-bola-de-nieve-vs-avalancha",
-      "source": "n26_deudas",
-      "published": "2026-10-22",
-      "keywords": [
-        "n26"
+        "supermercado",
+        "alimentacion"
       ]
     }
   ]
