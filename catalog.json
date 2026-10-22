@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T00:00:00Z",
+  "updated_at": "2026-10-22T21:05:21Z",
   "methods": [
     {
       "key": "debt",
@@ -409,6 +409,18 @@
       "keywords": [
         "supermercado",
         "alimentacion"
+      ]
+    },
+    {
+      "title": "Miles de hogares ya se han apuntado a ahorrar energía",
+      "summary": "La OCU anima a los hogares a sumarse a su Compra Colectiva de Energía para abaratar la luz y el gas; casi 17.000 ya se han inscrito. Recomienda revisar el contrato actual y calcular el ahorro posible antes de decidir.",
+      "url": "https://www.ocu.org/vivienda-y-energia/gas-luz/noticias/firmantes-ahorro-cce-x",
+      "source": "OCU",
+      "published": "2026-09-29",
+      "keywords": [
+        "luz",
+        "gas",
+        "suministros"
       ]
     }
   ]
