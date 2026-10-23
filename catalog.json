@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T21:05:21Z",
+  "updated_at": "2026-10-23T05:03:18Z",
   "methods": [
     {
       "key": "debt",
@@ -305,6 +305,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Los supermercados más baratos 2026",
+      "summary": "El estudio anual de OCU estima que elegir bien dónde comprar permite ahorrar de media 1.310 € al año en la cesta, con grandes diferencias según la ciudad y cadenas como Dani, Family Cash o Lidl entre las más económicas.",
+      "url": "https://www.ocu.org/consumo-familia/supermercados/noticias/supermercados-mas-baratos-2026",
+      "source": "OCU",
+      "published": "2026-09-25",
+      "keywords": [
+        "supermercado",
+        "alimentacion",
+        "compras"
+      ]
+    },
     {
       "published": "2026-06-20",
       "source": "iProfesional",
