@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T05:03:18Z",
+  "updated_at": "2026-10-24T05:15:45Z",
   "methods": [
     {
       "key": "debt",
@@ -433,6 +433,18 @@
         "luz",
         "gas",
         "suministros"
+      ]
+    },
+    {
+      "title": "Estudio OCU de supermercados 2026: es posible ahorrar 1.310 € en la cesta de la compra",
+      "summary": "La OCU calcula que elegir el supermercado más barato frente al más caro supone un ahorro medio de 1.310 € al año, con grandes diferencias según la ciudad. La cesta subió un 1,8 %, la menor alza en cinco años.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/supermercados250926",
+      "source": "OCU",
+      "published": "2026-09-25",
+      "keywords": [
+        "supermercado",
+        "alimentacion",
+        "compras"
       ]
     }
   ]
