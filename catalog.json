@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T05:15:45Z",
+  "updated_at": "2026-10-25T05:15:42Z",
   "methods": [
     {
       "key": "debt",
@@ -445,6 +445,18 @@
         "supermercado",
         "alimentacion",
         "compras"
+      ]
+    },
+    {
+      "title": "¿Cómo reducir el gasto en casa?: OCU organiza 2 jornadas en Toledo y Torrijos",
+      "summary": "OCU y la Junta de Castilla-La Mancha organizan dos jornadas gratuitas sobre ahorro energético: una para entender la factura de la luz y otra con consejos para gastar menos en luz y calefacción con el frío.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/jornadastoledotorrijos151026",
+      "source": "OCU",
+      "published": "2026-10-15",
+      "keywords": [
+        "luz",
+        "suministros",
+        "vivienda"
       ]
     }
   ]
