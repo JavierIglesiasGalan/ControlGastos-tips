@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T05:15:42Z",
+  "updated_at": "2026-10-27T05:15:49Z",
   "methods": [
     {
       "key": "debt",
@@ -455,6 +455,19 @@
       "published": "2026-10-15",
       "keywords": [
         "luz",
+        "suministros",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "OCU lanza una nueva compra colectiva para conseguir tarifas de luz y gas más baratas",
+      "summary": "La OCU abre la décima edición de su compra colectiva de energía: la inscripción es gratuita y sin compromiso, y tras una subasta entre comercializadoras cada usuario decide si contrata la oferta ganadora.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/ccex010926",
+      "source": "OCU",
+      "published": "2026-09-01",
+      "keywords": [
+        "luz",
+        "gas",
         "suministros",
         "vivienda"
       ]
