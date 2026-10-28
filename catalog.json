@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T05:15:49Z",
+  "updated_at": "2026-10-28T05:16:20Z",
   "methods": [
     {
       "key": "debt",
@@ -306,95 +306,11 @@
   ],
   "news": [
     {
-      "title": "Los supermercados más baratos 2026",
-      "summary": "El estudio anual de OCU estima que elegir bien dónde comprar permite ahorrar de media 1.310 € al año en la cesta, con grandes diferencias según la ciudad y cadenas como Dani, Family Cash o Lidl entre las más económicas.",
-      "url": "https://www.ocu.org/consumo-familia/supermercados/noticias/supermercados-mas-baratos-2026",
-      "source": "OCU",
-      "published": "2026-09-25",
-      "keywords": [
-        "supermercado",
-        "alimentacion",
-        "compras"
-      ]
-    },
-    {
-      "published": "2026-06-20",
-      "source": "iProfesional",
-      "title": "Kakebo: el método japonés para ahorrar dinero",
-      "url": "https://www.iprofesional.com/finanzas/400644-kakebo-el-metodo-japones-para-ahorrar-dinero",
-      "summary": "Registrar cada gasto a diario y revisarlo cada semana y cada mes para entender en qué se va el dinero.",
-      "keywords": [
-        "ocio",
-        "restaurantes",
-        "ropa",
-        "suscripciones"
-      ]
-    },
-    {
-      "published": "2025-11-17",
-      "source": "Merca2",
-      "title": "El truco de la OCU para ahorrar 2.000 € anuales en la compra",
-      "url": "https://www.merca2.es/2025/11/17/truco-ocu-ahorrar-anuales-compra-2323994/",
-      "summary": "La OCU calcula que elegir bien el supermercado puede suponer hasta 2.000 € al año.",
-      "keywords": [
-        "supermercado",
-        "alimentacion"
-      ]
-    },
-    {
-      "published": "2025-11-03",
-      "source": "El Diario (Ecuador)",
-      "title": "El método 60/20/20 se adapta a hogares con ingresos variables y familias endeudadas",
-      "url": "https://www.eldiario.ec/negocios/el-metodo-60-20-20-se-adapta-a-hogares-con-ingresos-variables-y-familias-endeudadas-03112025/",
-      "summary": "Una variante del 50/30/20 para quien tiene ingresos irregulares o deudas: partir del mes más bajo y no eliminar nunca el ahorro.",
-      "keywords": [
-        "prestamo",
-        "deuda",
-        "vivienda"
-      ]
-    },
-    {
-      "published": "2025-09-14",
-      "source": "Merca2",
-      "title": "La OCU revela las claves para que las familias con ingresos bajos ahorren hasta 2.500 € anuales",
-      "url": "https://www.merca2.es/2025/09/14/la-ocu-2231011/",
-      "summary": "Recomendaciones de la OCU sobre compra, suministros y servicios para hogares con ingresos ajustados.",
-      "keywords": [
-        "supermercado",
-        "suministros",
-        "telefonia"
-      ]
-    },
-    {
-      "published": "2025-06-20",
-      "source": "El Diario (Ecuador)",
-      "title": "Estrategias para pagar deudas: bola de nieve o avalancha",
-      "url": "https://www.eldiario.ec/negocios/estrategias-para-pagar-deudas-bola-de-nieve-o-avalancha-20062025/",
-      "summary": "Pagar primero la deuda más pequeña para ganar motivación o la de mayor interés para pagar menos.",
-      "keywords": [
-        "prestamo",
-        "deuda"
-      ]
-    },
-    {
-      "published": "2025-06-12",
-      "source": "El Diario (Ecuador)",
-      "title": "Claves para gestionar gastos fijos y variables en la economía del hogar",
-      "url": "https://www.eldiario.ec/negocios/claves-para-gestionar-gastos-fijos-y-variables-en-la-economia-del-hogar-12062025/",
-      "summary": "Distinguir gastos fijos, variables necesarios y discrecionales; los discrecionales son los primeros en recortarse.",
-      "keywords": [
-        "vivienda",
-        "suministros",
-        "seguro",
-        "ocio"
-      ]
-    },
-    {
-      "published": "2025-05-19",
+      "published": "2023-10-23",
       "source": "Moncloa.com",
-      "title": "La OCU te enseña a ahorrar 100 euros al mes en la compra con 5 trucos fáciles",
-      "url": "https://www.moncloa.com/2025/05/19/ocu-ahorrar-100-euros-al-mes-3230587/",
-      "summary": "Planificar el menú, comparar precio por kilo y elegir productos de temporada.",
+      "title": "Estos son los 10 consejos de la OCU para ahorrar en tu carro de la compra",
+      "url": "https://www.moncloa.com/2023/10/23/10-consejos-de-la-ocu-para-ahorrar-en-tu-carro-de-la-compra-2242106/",
+      "summary": "Planificar 20 minutos a la semana, comparar establecimientos (más de un 30 % de diferencia) y precio por kilo.",
       "keywords": [
         "supermercado",
         "alimentacion"
@@ -413,26 +329,123 @@
       ]
     },
     {
-      "published": "2023-10-23",
+      "published": "2025-05-19",
       "source": "Moncloa.com",
-      "title": "Estos son los 10 consejos de la OCU para ahorrar en tu carro de la compra",
-      "url": "https://www.moncloa.com/2023/10/23/10-consejos-de-la-ocu-para-ahorrar-en-tu-carro-de-la-compra-2242106/",
-      "summary": "Planificar 20 minutos a la semana, comparar establecimientos (más de un 30 % de diferencia) y precio por kilo.",
+      "title": "La OCU te enseña a ahorrar 100 euros al mes en la compra con 5 trucos fáciles",
+      "url": "https://www.moncloa.com/2025/05/19/ocu-ahorrar-100-euros-al-mes-3230587/",
+      "summary": "Planificar el menú, comparar precio por kilo y elegir productos de temporada.",
       "keywords": [
         "supermercado",
         "alimentacion"
       ]
     },
     {
-      "title": "Miles de hogares ya se han apuntado a ahorrar energía",
-      "summary": "La OCU anima a los hogares a sumarse a su Compra Colectiva de Energía para abaratar la luz y el gas; casi 17.000 ya se han inscrito. Recomienda revisar el contrato actual y calcular el ahorro posible antes de decidir.",
-      "url": "https://www.ocu.org/vivienda-y-energia/gas-luz/noticias/firmantes-ahorro-cce-x",
+      "published": "2025-06-12",
+      "source": "El Diario (Ecuador)",
+      "title": "Claves para gestionar gastos fijos y variables en la economía del hogar",
+      "url": "https://www.eldiario.ec/negocios/claves-para-gestionar-gastos-fijos-y-variables-en-la-economia-del-hogar-12062025/",
+      "summary": "Distinguir gastos fijos, variables necesarios y discrecionales; los discrecionales son los primeros en recortarse.",
+      "keywords": [
+        "vivienda",
+        "suministros",
+        "seguro",
+        "ocio"
+      ]
+    },
+    {
+      "published": "2025-06-20",
+      "source": "El Diario (Ecuador)",
+      "title": "Estrategias para pagar deudas: bola de nieve o avalancha",
+      "url": "https://www.eldiario.ec/negocios/estrategias-para-pagar-deudas-bola-de-nieve-o-avalancha-20062025/",
+      "summary": "Pagar primero la deuda más pequeña para ganar motivación o la de mayor interés para pagar menos.",
+      "keywords": [
+        "prestamo",
+        "deuda"
+      ]
+    },
+    {
+      "published": "2025-09-14",
+      "source": "Merca2",
+      "title": "La OCU revela las claves para que las familias con ingresos bajos ahorren hasta 2.500 € anuales",
+      "url": "https://www.merca2.es/2025/09/14/la-ocu-2231011/",
+      "summary": "Recomendaciones de la OCU sobre compra, suministros y servicios para hogares con ingresos ajustados.",
+      "keywords": [
+        "supermercado",
+        "suministros",
+        "telefonia"
+      ]
+    },
+    {
+      "published": "2025-11-03",
+      "source": "El Diario (Ecuador)",
+      "title": "El método 60/20/20 se adapta a hogares con ingresos variables y familias endeudadas",
+      "url": "https://www.eldiario.ec/negocios/el-metodo-60-20-20-se-adapta-a-hogares-con-ingresos-variables-y-familias-endeudadas-03112025/",
+      "summary": "Una variante del 50/30/20 para quien tiene ingresos irregulares o deudas: partir del mes más bajo y no eliminar nunca el ahorro.",
+      "keywords": [
+        "prestamo",
+        "deuda",
+        "vivienda"
+      ]
+    },
+    {
+      "published": "2025-11-17",
+      "source": "Merca2",
+      "title": "El truco de la OCU para ahorrar 2.000 € anuales en la compra",
+      "url": "https://www.merca2.es/2025/11/17/truco-ocu-ahorrar-anuales-compra-2323994/",
+      "summary": "La OCU calcula que elegir bien el supermercado puede suponer hasta 2.000 € al año.",
+      "keywords": [
+        "supermercado",
+        "alimentacion"
+      ]
+    },
+    {
+      "published": "2026-06-20",
+      "source": "iProfesional",
+      "title": "Kakebo: el método japonés para ahorrar dinero",
+      "url": "https://www.iprofesional.com/finanzas/400644-kakebo-el-metodo-japones-para-ahorrar-dinero",
+      "summary": "Registrar cada gasto a diario y revisarlo cada semana y cada mes para entender en qué se va el dinero.",
+      "keywords": [
+        "ocio",
+        "restaurantes",
+        "ropa",
+        "suscripciones"
+      ]
+    },
+    {
+      "title": "OCU lanza una nueva compra colectiva para conseguir tarifas de luz y gas más baratas",
+      "summary": "La OCU abre la décima edición de su compra colectiva de energía: la inscripción es gratuita y sin compromiso, y tras una subasta entre comercializadoras cada usuario decide si contrata la oferta ganadora.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/ccex010926",
       "source": "OCU",
-      "published": "2026-09-29",
+      "published": "2026-09-01",
       "keywords": [
         "luz",
         "gas",
-        "suministros"
+        "suministros",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "OCU advierte: la factura regulada del gas podría encarecerse un 54% en octubre",
+      "summary": "OCU prevé una fuerte subida de la TUR del gas en la revisión de octubre (un hogar con calefacción de gas pasaría de unos 600 a unos 910 euros al año). Recomienda mantener la tarifa regulada y revisar las ofertas de precio fijo.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/gas220926",
+      "source": "OCU",
+      "published": "2026-09-22",
+      "keywords": [
+        "gas",
+        "suministros",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "Los supermercados más baratos 2026",
+      "summary": "El estudio anual de OCU estima que elegir bien dónde comprar permite ahorrar de media 1.310 € al año en la cesta, con grandes diferencias según la ciudad y cadenas como Dani, Family Cash o Lidl entre las más económicas.",
+      "url": "https://www.ocu.org/consumo-familia/supermercados/noticias/supermercados-mas-baratos-2026",
+      "source": "OCU",
+      "published": "2026-09-25",
+      "keywords": [
+        "supermercado",
+        "alimentacion",
+        "compras"
       ]
     },
     {
@@ -448,6 +461,18 @@
       ]
     },
     {
+      "title": "Miles de hogares ya se han apuntado a ahorrar energía",
+      "summary": "La OCU anima a los hogares a sumarse a su Compra Colectiva de Energía para abaratar la luz y el gas; casi 17.000 ya se han inscrito. Recomienda revisar el contrato actual y calcular el ahorro posible antes de decidir.",
+      "url": "https://www.ocu.org/vivienda-y-energia/gas-luz/noticias/firmantes-ahorro-cce-x",
+      "source": "OCU",
+      "published": "2026-09-29",
+      "keywords": [
+        "luz",
+        "gas",
+        "suministros"
+      ]
+    },
+    {
       "title": "¿Cómo reducir el gasto en casa?: OCU organiza 2 jornadas en Toledo y Torrijos",
       "summary": "OCU y la Junta de Castilla-La Mancha organizan dos jornadas gratuitas sobre ahorro energético: una para entender la factura de la luz y otra con consejos para gastar menos en luz y calefacción con el frío.",
       "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/jornadastoledotorrijos151026",
@@ -460,11 +485,11 @@
       ]
     },
     {
-      "title": "OCU lanza una nueva compra colectiva para conseguir tarifas de luz y gas más baratas",
-      "summary": "La OCU abre la décima edición de su compra colectiva de energía: la inscripción es gratuita y sin compromiso, y tras una subasta entre comercializadoras cada usuario decide si contrata la oferta ganadora.",
-      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/ccex010926",
-      "source": "OCU",
-      "published": "2026-09-01",
+      "title": "Hasta 1.500 euros de más en luz y 3.500 en gas: la OCU señala dónde están perdiendo dinero las comunidades de vecinos",
+      "summary": "Un informe de OCU sobre casi cien contratos de comunidades detecta que muchas pagan de más por tarifas sin revisar y por potencia contratada excesiva. Revisar contrato y potencia es la vía principal de ahorro.",
+      "url": "https://www.xatakahome.com/iluminacion-y-energia/1-500-euros-luz-3-500-gas-ocu-senala-donde-estan-perdiendo-dinero-comunidades-vecinos",
+      "source": "Xataka Home",
+      "published": "2026-10-23",
       "keywords": [
         "luz",
         "gas",
