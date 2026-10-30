@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T05:16:20Z",
+  "updated_at": "2026-10-30T05:16:28Z",
   "methods": [
     {
       "key": "debt",
@@ -495,6 +495,28 @@
         "gas",
         "suministros",
         "vivienda"
+      ]
+    },
+    {
+      "title": "Encuesta OCU: gastamos 351 euros al año, de media, en prendas y calzado",
+      "summary": "Según la encuesta de OCU, los españoles compran de media ocho prendas y tres pares de calzado al año, y casi la mitad ha adquirido ropa usada. Recomiendan la segunda mano y desconfiar de las prendas extremadamente baratas por su corta vida útil.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/encuestaropa261026",
+      "source": "OCU",
+      "published": "2026-10-26",
+      "keywords": [
+        "ropa",
+        "compras"
+      ]
+    },
+    {
+      "title": "OCU reclama transparencia ante las subidas de precio de los seguros privados de salud",
+      "summary": "Una encuesta de OCU a más de 2.300 personas indica que las subidas de prima son la principal queja con los seguros de salud, y que ninguna de las 18 aseguradoras analizadas destaca en este aspecto. Conviene revisar la póliza y comparar antes de renovar.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/segurossalud211026",
+      "source": "OCU",
+      "published": "2026-10-21",
+      "keywords": [
+        "seguros",
+        "salud"
       ]
     }
   ]
