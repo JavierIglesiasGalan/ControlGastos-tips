@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T05:16:28Z",
+  "updated_at": "2026-10-31T05:16:00Z",
   "methods": [
     {
       "key": "debt",
@@ -485,6 +485,17 @@
       ]
     },
     {
+      "title": "OCU reclama transparencia ante las subidas de precio de los seguros privados de salud",
+      "summary": "Una encuesta de OCU a más de 2.300 personas indica que las subidas de prima son la principal queja con los seguros de salud, y que ninguna de las 18 aseguradoras analizadas destaca en este aspecto. Conviene revisar la póliza y comparar antes de renovar.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/segurossalud211026",
+      "source": "OCU",
+      "published": "2026-10-21",
+      "keywords": [
+        "seguros",
+        "salud"
+      ]
+    },
+    {
       "title": "Hasta 1.500 euros de más en luz y 3.500 en gas: la OCU señala dónde están perdiendo dinero las comunidades de vecinos",
       "summary": "Un informe de OCU sobre casi cien contratos de comunidades detecta que muchas pagan de más por tarifas sin revisar y por potencia contratada excesiva. Revisar contrato y potencia es la vía principal de ahorro.",
       "url": "https://www.xatakahome.com/iluminacion-y-energia/1-500-euros-luz-3-500-gas-ocu-senala-donde-estan-perdiendo-dinero-comunidades-vecinos",
@@ -509,14 +520,27 @@
       ]
     },
     {
-      "title": "OCU reclama transparencia ante las subidas de precio de los seguros privados de salud",
-      "summary": "Una encuesta de OCU a más de 2.300 personas indica que las subidas de prima son la principal queja con los seguros de salud, y que ninguna de las 18 aseguradoras analizadas destaca en este aspecto. Conviene revisar la póliza y comparar antes de renovar.",
-      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/segurossalud211026",
+      "title": "OCU calcula una subida del 7,2% de la factura de la luz en octubre",
+      "summary": "La factura media del PVPC subió un 7,2% en octubre por el encarecimiento del mercado mayorista. OCU recomienda revisar el contrato y valorar ofertas de precio fijo durante al menos doce meses.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/subidaluzoctubrecce301026",
       "source": "OCU",
-      "published": "2026-10-21",
+      "published": "2026-10-30",
       "keywords": [
-        "seguros",
-        "salud"
+        "luz",
+        "suministros",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "Compras online fuera de la UE: OCU alerta de posibles subidas de precios desde el 1 de noviembre",
+      "summary": "Desde noviembre las compras desde fuera de la UE tendrán un recargo de 2 euros por categoría de producto, además del arancel de 3 euros. Conviene comprobar si el precio ya incluye estos gastos antes de pagar.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/tasa1nov301026",
+      "source": "OCU",
+      "published": "2026-10-30",
+      "keywords": [
+        "compras",
+        "ropa",
+        "regalos"
       ]
     }
   ]
