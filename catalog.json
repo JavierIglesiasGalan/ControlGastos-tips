@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T05:16:00Z",
+  "updated_at": "2026-11-03T05:16:02Z",
   "methods": [
     {
       "key": "debt",
@@ -541,6 +541,22 @@
         "compras",
         "ropa",
         "regalos"
+      ]
+    },
+    {
+      "title": "La subida de precios se generaliza: 29 partidas crecen más de un 5% interanual, advierte OCU",
+      "summary": "El IPC interanual de septiembre llegó al 4,9%, el más alto desde febrero de 2023, y las subidas ya no se limitan a la energía. OCU recomienda comparar precios en suministros, carburantes, compra, seguros y viajes.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/ipc141026",
+      "source": "OCU",
+      "published": "2026-10-14",
+      "keywords": [
+        "supermercado",
+        "alimentacion",
+        "luz",
+        "gasolina",
+        "seguros",
+        "viajes",
+        "suministros"
       ]
     }
   ]
