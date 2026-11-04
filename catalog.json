@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T05:16:02Z",
+  "updated_at": "2026-11-04T05:15:52Z",
   "methods": [
     {
       "key": "debt",
@@ -557,6 +557,19 @@
         "seguros",
         "viajes",
         "suministros"
+      ]
+    },
+    {
+      "title": "Las comunidades de propietarios pueden ahorrar hasta 1.500 euros en su factura eléctrica",
+      "summary": "La OCU estima que las comunidades de vecinos podrían reducir de forma notable su gasto en luz y gas revisando contratos, potencias y tarifas, un ahorro que se traslada a la cuota de cada vecino.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/luzygascomunidadesprop201026",
+      "source": "OCU",
+      "published": "2026-10-20",
+      "keywords": [
+        "luz",
+        "gas",
+        "suministros",
+        "vivienda"
       ]
     }
   ]
