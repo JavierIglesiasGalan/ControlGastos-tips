@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T05:15:52Z",
+  "updated_at": "2026-11-05T05:15:40Z",
   "methods": [
     {
       "key": "debt",
@@ -570,6 +570,19 @@
         "gas",
         "suministros",
         "vivienda"
+      ]
+    },
+    {
+      "title": "Miles de euros en juego: OCU aconseja renegociar la hipoteca",
+      "summary": "OCU recomienda a quienes tienen hipoteca variable con diferencial alto renegociar con el banco o subrogarla. En su ejemplo, bajar 0,25 puntos el diferencial ahorra más de 2.700 euros, y pasar a tipo fijo rebajaría la cuota unos 60 euros al mes.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/renegociarhipotecas041126",
+      "source": "OCU",
+      "published": "2026-11-04",
+      "keywords": [
+        "hipoteca",
+        "vivienda",
+        "prestamo",
+        "deuda"
       ]
     }
   ]
