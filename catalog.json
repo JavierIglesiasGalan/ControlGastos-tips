@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T05:15:40Z",
+  "updated_at": "2026-11-07T05:16:17Z",
   "methods": [
     {
       "key": "debt",
@@ -473,6 +473,22 @@
       ]
     },
     {
+      "title": "La subida de precios se generaliza: 29 partidas crecen más de un 5% interanual, advierte OCU",
+      "summary": "El IPC interanual de septiembre llegó al 4,9%, el más alto desde febrero de 2023, y las subidas ya no se limitan a la energía. OCU recomienda comparar precios en suministros, carburantes, compra, seguros y viajes.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/ipc141026",
+      "source": "OCU",
+      "published": "2026-10-14",
+      "keywords": [
+        "supermercado",
+        "alimentacion",
+        "luz",
+        "gasolina",
+        "seguros",
+        "viajes",
+        "suministros"
+      ]
+    },
+    {
       "title": "¿Cómo reducir el gasto en casa?: OCU organiza 2 jornadas en Toledo y Torrijos",
       "summary": "OCU y la Junta de Castilla-La Mancha organizan dos jornadas gratuitas sobre ahorro energético: una para entender la factura de la luz y otra con consejos para gastar menos en luz y calefacción con el frío.",
       "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/jornadastoledotorrijos151026",
@@ -480,6 +496,19 @@
       "published": "2026-10-15",
       "keywords": [
         "luz",
+        "suministros",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "Las comunidades de propietarios pueden ahorrar hasta 1.500 euros en su factura eléctrica",
+      "summary": "La OCU estima que las comunidades de vecinos podrían reducir de forma notable su gasto en luz y gas revisando contratos, potencias y tarifas, un ahorro que se traslada a la cuota de cada vecino.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/luzygascomunidadesprop201026",
+      "source": "OCU",
+      "published": "2026-10-20",
+      "keywords": [
+        "luz",
+        "gas",
         "suministros",
         "vivienda"
       ]
@@ -544,35 +573,6 @@
       ]
     },
     {
-      "title": "La subida de precios se generaliza: 29 partidas crecen más de un 5% interanual, advierte OCU",
-      "summary": "El IPC interanual de septiembre llegó al 4,9%, el más alto desde febrero de 2023, y las subidas ya no se limitan a la energía. OCU recomienda comparar precios en suministros, carburantes, compra, seguros y viajes.",
-      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/ipc141026",
-      "source": "OCU",
-      "published": "2026-10-14",
-      "keywords": [
-        "supermercado",
-        "alimentacion",
-        "luz",
-        "gasolina",
-        "seguros",
-        "viajes",
-        "suministros"
-      ]
-    },
-    {
-      "title": "Las comunidades de propietarios pueden ahorrar hasta 1.500 euros en su factura eléctrica",
-      "summary": "La OCU estima que las comunidades de vecinos podrían reducir de forma notable su gasto en luz y gas revisando contratos, potencias y tarifas, un ahorro que se traslada a la cuota de cada vecino.",
-      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/luzygascomunidadesprop201026",
-      "source": "OCU",
-      "published": "2026-10-20",
-      "keywords": [
-        "luz",
-        "gas",
-        "suministros",
-        "vivienda"
-      ]
-    },
-    {
       "title": "Miles de euros en juego: OCU aconseja renegociar la hipoteca",
       "summary": "OCU recomienda a quienes tienen hipoteca variable con diferencial alto renegociar con el banco o subrogarla. En su ejemplo, bajar 0,25 puntos el diferencial ahorra más de 2.700 euros, y pasar a tipo fijo rebajaría la cuota unos 60 euros al mes.",
       "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/renegociarhipotecas041126",
@@ -583,6 +583,31 @@
         "vivienda",
         "prestamo",
         "deuda"
+      ]
+    },
+    {
+      "title": "Al menos 1 de cada 3 gasolineras no trasladaron toda la rebaja fiscal aprobada en octubre",
+      "summary": "OCU detecta que muchas gasolineras, sobre todo low cost y ligadas a supermercados, no repercutieron por completo la rebaja del impuesto de hidrocarburos. Aconseja comparar precios antes de repostar.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/gasolinaefectopluma041126",
+      "source": "OCU",
+      "published": "2026-11-05",
+      "keywords": [
+        "gasolina",
+        "coche",
+        "transporte"
+      ]
+    },
+    {
+      "title": "Black Friday: OCU advierte que habrá más subidas que bajadas de precios",
+      "summary": "Según OCU, el año pasado solo el 35% de los precios de electrónica y electrodomésticos bajó en el Black Friday y un 37% subió. Recomienda registrar precios con antelación, comparar y desconfiar de descuentos excesivos.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/blackfriday1nov2026",
+      "source": "OCU",
+      "published": "2026-11-06",
+      "keywords": [
+        "compras",
+        "ocio",
+        "regalos",
+        "ropa"
       ]
     }
   ]
