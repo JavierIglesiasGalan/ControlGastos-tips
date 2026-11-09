@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T05:16:17Z",
+  "updated_at": "2026-11-09T05:15:56Z",
   "methods": [
     {
       "key": "debt",
@@ -608,6 +608,30 @@
         "ocio",
         "regalos",
         "ropa"
+      ]
+    },
+    {
+      "title": "Las tarifas de la luz más baratas para empezar noviembre de 2026 ahorrando: PVPC frente al mercado libre",
+      "summary": "Xataka Home compara la tarifa regulada PVPC con las ofertas del mercado libre para noviembre. Útil para revisar si tu tarifa actual sigue siendo competitiva.",
+      "url": "https://www.xatakahome.com/iluminacion-y-energia/tarifas-luz-baratas-para-empezar-noviembre-2026-ahorrando-asi-queda-pvpc-respecto-a-mercado-libre",
+      "source": "Xataka Home",
+      "published": "2026-11-02",
+      "keywords": [
+        "luz",
+        "suministros",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "El cambio en la factura de la luz desde el 1 de noviembre: nuevos tramos horarios que encarecen el horno",
+      "summary": "Desde noviembre cambian los tramos horarios de la luz y el llano resulta bastante más barato que la punta. Conviene mover lavadora, lavavajillas u horno a las horas baratas.",
+      "url": "https://www.moncloa.com/2026/10/19/el-cambio-radical-en-la-factura-de-la-luz-a-partir-del-1-de-noviembre-los-nuevos-tramos-horarios-que-encarecen-el-uso-del-horno-3449940/",
+      "source": "Moncloa.com",
+      "published": "2026-10-19",
+      "keywords": [
+        "luz",
+        "suministros",
+        "vivienda"
       ]
     }
   ]
