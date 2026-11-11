@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T05:15:56Z",
+  "updated_at": "2026-11-11T05:16:02Z",
   "methods": [
     {
       "key": "debt",
@@ -630,6 +630,19 @@
       "published": "2026-10-19",
       "keywords": [
         "luz",
+        "suministros",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "La oferta ganadora de niba rebaja un 18% el precio medio de las mejores tarifas de electricidad",
+      "summary": "La X Compra Colectiva de Energía de OCU concluye con una oferta eléctrica de niba (Iberdrola) con precios garantizados 12 meses y un ahorro estimado de 191 € al año para un hogar tipo. En gas la oferta queda desierta y la tarifa regulada TUR sigue siendo la mejor opción.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/cce101126",
+      "source": "OCU",
+      "published": "2026-11-10",
+      "keywords": [
+        "luz",
+        "gas",
         "suministros",
         "vivienda"
       ]
