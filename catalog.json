@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T05:15:44Z",
+  "updated_at": "2026-11-13T05:16:09Z",
   "methods": [
     {
       "key": "debt",
@@ -653,6 +653,18 @@
       "published": "2026-11-10",
       "keywords": [
         "luz",
+        "gas",
+        "suministros",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "OCU: la rebaja del gas no elimina la subida, solo aplaza su pago hasta dentro de seis meses",
+      "summary": "OCU advierte de que el tope a la subida de la TUR del gas no reduce lo que pagan los hogares: parte del coste se aplaza a abril de 2027 y se recuperará después mediante la tarifa. Conviene tenerlo en cuenta al presupuestar el gasto de gas.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/gas011026",
+      "source": "OCU",
+      "published": "2026-10-01",
+      "keywords": [
         "gas",
         "suministros",
         "vivienda"
