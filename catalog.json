@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T05:16:09Z",
+  "updated_at": "2026-11-14T05:15:44Z",
   "methods": [
     {
       "key": "debt",
@@ -668,6 +668,19 @@
         "gas",
         "suministros",
         "vivienda"
+      ]
+    },
+    {
+      "title": "OCU anima a reclamar los intereses de los seguros a prima única financiados con un préstamo personal",
+      "summary": "Tras una sentencia del TJUE de abril de 2026, OCU explica que quienes contrataron préstamos con seguros de prima única financiada pueden reclamar cantidades cobradas indebidamente. Conviene revisar préstamos antiguos.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/segurosprimaunica061026",
+      "source": "OCU",
+      "published": "2026-10-06",
+      "keywords": [
+        "prestamo",
+        "seguros",
+        "deuda",
+        "credito"
       ]
     }
   ]
