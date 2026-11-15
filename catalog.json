@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T05:15:44Z",
+  "updated_at": "2026-11-15T05:15:52Z",
   "methods": [
     {
       "key": "debt",
@@ -681,6 +681,32 @@
         "seguros",
         "deuda",
         "credito"
+      ]
+    },
+    {
+      "title": "Encuesta OCU: tres de cada cuatro españoles aprovecharán el Black Friday para comprar",
+      "summary": "El 76% de los españoles prevé comprar en el Black Friday, con un gasto medio previsto de 196 euros, menor que el año pasado. Bajan las compras impulsivas, del 42% al 36%.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/encuestabfriday131126",
+      "source": "OCU",
+      "published": "2026-11-13",
+      "keywords": [
+        "compras",
+        "ropa",
+        "ocio",
+        "regalos"
+      ]
+    },
+    {
+      "title": "10 Consejos fiscales de OCU para ahorrar en la próxima Declaración del IRPF",
+      "summary": "OCU recuerda que antes de fin de año aún se puede reducir la cuota de la renta: aportar al plan de pensiones, planificar ganancias y pérdidas patrimoniales o mejorar la eficiencia energética del hogar.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/consejosfiscales111126",
+      "source": "OCU",
+      "published": "2026-11-11",
+      "keywords": [
+        "vivienda",
+        "suministros",
+        "luz",
+        "seguros"
       ]
     }
   ]
