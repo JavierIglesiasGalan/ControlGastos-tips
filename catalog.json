@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T05:15:52Z",
+  "updated_at": "2026-11-17T05:16:36Z",
   "methods": [
     {
       "key": "debt",
@@ -707,6 +707,18 @@
         "suministros",
         "luz",
         "seguros"
+      ]
+    },
+    {
+      "title": "Alerta en los supermercados españoles: la OCU destapa la cadena para hacer la compra semanal por menos de 50 euros",
+      "summary": "Repaso al estudio anual de la OCU: la cadena Supermercados Dani aparece con el nivel de precios más bajo de España. Recuerda que elegir bien dónde comprar es una de las palancas de ahorro más grandes del hogar.",
+      "url": "https://www.moncloa.com/2026/10/14/ocu-supermercados-compra-3447876",
+      "source": "Moncloa.com",
+      "published": "2026-10-14",
+      "keywords": [
+        "supermercado",
+        "alimentacion",
+        "compras"
       ]
     }
   ]
