@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T05:16:36Z",
+  "updated_at": "2026-11-18T05:16:03Z",
   "methods": [
     {
       "key": "debt",
@@ -719,6 +719,19 @@
         "supermercado",
         "alimentacion",
         "compras"
+      ]
+    },
+    {
+      "title": "Cuenta atrás para Black Friday",
+      "summary": "OCU recuerda que las ofertas del Black Friday no siempre son rebajas reales: el año pasado solo el 35% de 14.000 precios de electrónica y electrodomésticos bajó. Este año vuelve a monitorizar precios para comprobarlo.",
+      "url": "https://www.ocu.org/consumo-familia/compras-online/noticias/black-friday-cuenta-atras",
+      "source": "OCU",
+      "published": "2026-11-06",
+      "keywords": [
+        "compras",
+        "ocio",
+        "regalos",
+        "ropa"
       ]
     }
   ]
