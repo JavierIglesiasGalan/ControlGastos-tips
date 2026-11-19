@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T05:16:03Z",
+  "updated_at": "2026-11-19T05:16:48Z",
   "methods": [
     {
       "key": "debt",
@@ -732,6 +732,18 @@
         "ocio",
         "regalos",
         "ropa"
+      ]
+    },
+    {
+      "title": "OCU anima a los consumidores a aprovechar los CAES: hasta 3.000 euros por comprar un coche eléctrico",
+      "summary": "OCU explica que los certificados de ahorro energético pueden aportar hasta 3.000 euros al cambiar un coche de combustión por uno eléctrico, más cuanto más antiguo y recorrido sea el vehículo. Recomienda calcular el importe y revisar los contratos de cesión, porque algunos operadores ofrecen cantidades fijas muy inferiores.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/caes181126",
+      "source": "OCU",
+      "published": "2026-11-18",
+      "keywords": [
+        "coche",
+        "transporte",
+        "gasolina"
       ]
     }
   ]
