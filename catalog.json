@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T05:16:48Z",
+  "updated_at": "2026-11-20T05:15:52Z",
   "methods": [
     {
       "key": "debt",
@@ -744,6 +744,41 @@
         "coche",
         "transporte",
         "gasolina"
+      ]
+    },
+    {
+      "title": "Cártel de coches: OCU alerta de que el plazo para reclamar individualmente expira el 1 de diciembre",
+      "summary": "Quienes compraron un coche de 28 marcas entre 2006 y 2013 podrían reclamar hasta el 15 % del precio. El plazo individual acaba el 1 de diciembre, pero OCU mantiene abiertas sus demandas colectivas.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/cartelcoches191126",
+      "source": "OCU",
+      "published": "2026-11-19",
+      "keywords": [
+        "coche",
+        "transporte",
+        "compras"
+      ]
+    },
+    {
+      "title": "Casos de phishing: OCU recuerda que la carga de la prueba corresponde al banco",
+      "summary": "Según el TJUE, el banco debe devolver de inmediato las operaciones no autorizadas y es él quien tiene que probar la negligencia del cliente. OCU aconseja reclamar de nuevo si la queja fue rechazada.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/reembolsophishing181126",
+      "source": "OCU",
+      "published": "2026-11-18",
+      "keywords": [
+        "credito",
+        "compras",
+        "deuda"
+      ]
+    },
+    {
+      "title": "Análisis OCU de pan de molde integral: el doble de fibra y un 30% más de proteínas",
+      "summary": "El análisis concluye que los panes integrales de marca blanca ofrecen calidad similar y cuestan hasta tres veces menos. Conviene comprobar que toda la harina sea integral antes de comprarlos.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/panmolde121126",
+      "source": "OCU",
+      "published": "2026-11-12",
+      "keywords": [
+        "supermercado",
+        "alimentacion"
       ]
     }
   ]
