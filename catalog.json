@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T05:15:52Z",
+  "updated_at": "2026-11-21T05:15:58Z",
   "methods": [
     {
       "key": "debt",
@@ -306,17 +306,6 @@
   ],
   "news": [
     {
-      "published": "2026-10-28",
-      "source": "OCU",
-      "title": "Precios de la cesta de la compra estables en octubre",
-      "url": "https://www.ocu.org/consumo-familia/supermercados/informe/evolucion-precios-cesta-compra",
-      "summary": "El seguimiento mensual de OCU sitúa la cesta en 317,23 euros en octubre, frente a 317,87 en septiembre, con precios todavía cerca de los máximos de abril. Solo carnicería y charcutería subieron (0,74%).",
-      "keywords": [
-        "supermercado",
-        "alimentacion"
-      ]
-    },
-    {
       "published": "2023-10-23",
       "source": "Moncloa.com",
       "title": "Estos son los 10 consejos de la OCU para ahorrar en tu carro de la compra",
@@ -484,6 +473,31 @@
       ]
     },
     {
+      "title": "OCU: la rebaja del gas no elimina la subida, solo aplaza su pago hasta dentro de seis meses",
+      "summary": "OCU advierte de que el tope a la subida de la TUR del gas no reduce lo que pagan los hogares: parte del coste se aplaza a abril de 2027 y se recuperará después mediante la tarifa. Conviene tenerlo en cuenta al presupuestar el gasto de gas.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/gas011026",
+      "source": "OCU",
+      "published": "2026-10-01",
+      "keywords": [
+        "gas",
+        "suministros",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "OCU anima a reclamar los intereses de los seguros a prima única financiados con un préstamo personal",
+      "summary": "Tras una sentencia del TJUE de abril de 2026, OCU explica que quienes contrataron préstamos con seguros de prima única financiada pueden reclamar cantidades cobradas indebidamente. Conviene revisar préstamos antiguos.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/segurosprimaunica061026",
+      "source": "OCU",
+      "published": "2026-10-06",
+      "keywords": [
+        "prestamo",
+        "seguros",
+        "deuda",
+        "credito"
+      ]
+    },
+    {
       "title": "La subida de precios se generaliza: 29 partidas crecen más de un 5% interanual, advierte OCU",
       "summary": "El IPC interanual de septiembre llegó al 4,9%, el más alto desde febrero de 2023, y las subidas ya no se limitan a la energía. OCU recomienda comparar precios en suministros, carburantes, compra, seguros y viajes.",
       "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/ipc141026",
@@ -500,11 +514,35 @@
       ]
     },
     {
+      "title": "Alerta en los supermercados españoles: la OCU destapa la cadena para hacer la compra semanal por menos de 50 euros",
+      "summary": "Repaso al estudio anual de la OCU: la cadena Supermercados Dani aparece con el nivel de precios más bajo de España. Recuerda que elegir bien dónde comprar es una de las palancas de ahorro más grandes del hogar.",
+      "url": "https://www.moncloa.com/2026/10/14/ocu-supermercados-compra-3447876",
+      "source": "Moncloa.com",
+      "published": "2026-10-14",
+      "keywords": [
+        "supermercado",
+        "alimentacion",
+        "compras"
+      ]
+    },
+    {
       "title": "¿Cómo reducir el gasto en casa?: OCU organiza 2 jornadas en Toledo y Torrijos",
       "summary": "OCU y la Junta de Castilla-La Mancha organizan dos jornadas gratuitas sobre ahorro energético: una para entender la factura de la luz y otra con consejos para gastar menos en luz y calefacción con el frío.",
       "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/jornadastoledotorrijos151026",
       "source": "OCU",
       "published": "2026-10-15",
+      "keywords": [
+        "luz",
+        "suministros",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "El cambio en la factura de la luz desde el 1 de noviembre: nuevos tramos horarios que encarecen el horno",
+      "summary": "Desde noviembre cambian los tramos horarios de la luz y el llano resulta bastante más barato que la punta. Conviene mover lavadora, lavavajillas u horno a las horas baratas.",
+      "url": "https://www.moncloa.com/2026/10/19/el-cambio-radical-en-la-factura-de-la-luz-a-partir-del-1-de-noviembre-los-nuevos-tramos-horarios-que-encarecen-el-uso-del-horno-3449940/",
+      "source": "Moncloa.com",
+      "published": "2026-10-19",
       "keywords": [
         "luz",
         "suministros",
@@ -560,6 +598,17 @@
       ]
     },
     {
+      "published": "2026-10-28",
+      "source": "OCU",
+      "title": "Precios de la cesta de la compra estables en octubre",
+      "url": "https://www.ocu.org/consumo-familia/supermercados/informe/evolucion-precios-cesta-compra",
+      "summary": "El seguimiento mensual de OCU sitúa la cesta en 317,23 euros en octubre, frente a 317,87 en septiembre, con precios todavía cerca de los máximos de abril. Solo carnicería y charcutería subieron (0,74%).",
+      "keywords": [
+        "supermercado",
+        "alimentacion"
+      ]
+    },
+    {
       "title": "OCU calcula una subida del 7,2% de la factura de la luz en octubre",
       "summary": "La factura media del PVPC subió un 7,2% en octubre por el encarecimiento del mercado mayorista. OCU recomienda revisar el contrato y valorar ofertas de precio fijo durante al menos doce meses.",
       "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/subidaluzoctubrecce301026",
@@ -581,6 +630,30 @@
         "compras",
         "ropa",
         "regalos"
+      ]
+    },
+    {
+      "title": "Las tarifas de la luz más baratas para empezar noviembre de 2026 ahorrando: PVPC frente al mercado libre",
+      "summary": "Xataka Home compara la tarifa regulada PVPC con las ofertas del mercado libre para noviembre. Útil para revisar si tu tarifa actual sigue siendo competitiva.",
+      "url": "https://www.xatakahome.com/iluminacion-y-energia/tarifas-luz-baratas-para-empezar-noviembre-2026-ahorrando-asi-queda-pvpc-respecto-a-mercado-libre",
+      "source": "Xataka Home",
+      "published": "2026-11-02",
+      "keywords": [
+        "luz",
+        "suministros",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "Mejores hipotecas noviembre 2026: fijas y variables",
+      "summary": "Comparativa mensual de OCU con las hipotecas fijas y variables más competitivas, con TAE, cuotas y euríbor actualizado, útil para reducir el gasto en vivienda.",
+      "url": "https://www.ocu.org/fincas-y-casas/compraventa/hipotecas/analisis/2026/11/mejor-hipoteca-noviembre-2026",
+      "source": "OCU",
+      "published": "2026-11-03",
+      "keywords": [
+        "hipoteca",
+        "vivienda",
+        "prestamo"
       ]
     },
     {
@@ -622,27 +695,16 @@
       ]
     },
     {
-      "title": "Las tarifas de la luz más baratas para empezar noviembre de 2026 ahorrando: PVPC frente al mercado libre",
-      "summary": "Xataka Home compara la tarifa regulada PVPC con las ofertas del mercado libre para noviembre. Útil para revisar si tu tarifa actual sigue siendo competitiva.",
-      "url": "https://www.xatakahome.com/iluminacion-y-energia/tarifas-luz-baratas-para-empezar-noviembre-2026-ahorrando-asi-queda-pvpc-respecto-a-mercado-libre",
-      "source": "Xataka Home",
-      "published": "2026-11-02",
+      "title": "Cuenta atrás para Black Friday",
+      "summary": "OCU recuerda que las ofertas del Black Friday no siempre son rebajas reales: el año pasado solo el 35% de 14.000 precios de electrónica y electrodomésticos bajó. Este año vuelve a monitorizar precios para comprobarlo.",
+      "url": "https://www.ocu.org/consumo-familia/compras-online/noticias/black-friday-cuenta-atras",
+      "source": "OCU",
+      "published": "2026-11-06",
       "keywords": [
-        "luz",
-        "suministros",
-        "vivienda"
-      ]
-    },
-    {
-      "title": "El cambio en la factura de la luz desde el 1 de noviembre: nuevos tramos horarios que encarecen el horno",
-      "summary": "Desde noviembre cambian los tramos horarios de la luz y el llano resulta bastante más barato que la punta. Conviene mover lavadora, lavavajillas u horno a las horas baratas.",
-      "url": "https://www.moncloa.com/2026/10/19/el-cambio-radical-en-la-factura-de-la-luz-a-partir-del-1-de-noviembre-los-nuevos-tramos-horarios-que-encarecen-el-uso-del-horno-3449940/",
-      "source": "Moncloa.com",
-      "published": "2026-10-19",
-      "keywords": [
-        "luz",
-        "suministros",
-        "vivienda"
+        "compras",
+        "ocio",
+        "regalos",
+        "ropa"
       ]
     },
     {
@@ -659,28 +721,27 @@
       ]
     },
     {
-      "title": "OCU: la rebaja del gas no elimina la subida, solo aplaza su pago hasta dentro de seis meses",
-      "summary": "OCU advierte de que el tope a la subida de la TUR del gas no reduce lo que pagan los hogares: parte del coste se aplaza a abril de 2027 y se recuperará después mediante la tarifa. Conviene tenerlo en cuenta al presupuestar el gasto de gas.",
-      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/gas011026",
+      "title": "10 Consejos fiscales de OCU para ahorrar en la próxima Declaración del IRPF",
+      "summary": "OCU recuerda que antes de fin de año aún se puede reducir la cuota de la renta: aportar al plan de pensiones, planificar ganancias y pérdidas patrimoniales o mejorar la eficiencia energética del hogar.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/consejosfiscales111126",
       "source": "OCU",
-      "published": "2026-10-01",
+      "published": "2026-11-11",
       "keywords": [
-        "gas",
+        "vivienda",
         "suministros",
-        "vivienda"
+        "luz",
+        "seguros"
       ]
     },
     {
-      "title": "OCU anima a reclamar los intereses de los seguros a prima única financiados con un préstamo personal",
-      "summary": "Tras una sentencia del TJUE de abril de 2026, OCU explica que quienes contrataron préstamos con seguros de prima única financiada pueden reclamar cantidades cobradas indebidamente. Conviene revisar préstamos antiguos.",
-      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/segurosprimaunica061026",
+      "title": "Análisis OCU de pan de molde integral: el doble de fibra y un 30% más de proteínas",
+      "summary": "El análisis concluye que los panes integrales de marca blanca ofrecen calidad similar y cuestan hasta tres veces menos. Conviene comprobar que toda la harina sea integral antes de comprarlos.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/panmolde121126",
       "source": "OCU",
-      "published": "2026-10-06",
+      "published": "2026-11-12",
       "keywords": [
-        "prestamo",
-        "seguros",
-        "deuda",
-        "credito"
+        "supermercado",
+        "alimentacion"
       ]
     },
     {
@@ -697,44 +758,6 @@
       ]
     },
     {
-      "title": "10 Consejos fiscales de OCU para ahorrar en la próxima Declaración del IRPF",
-      "summary": "OCU recuerda que antes de fin de año aún se puede reducir la cuota de la renta: aportar al plan de pensiones, planificar ganancias y pérdidas patrimoniales o mejorar la eficiencia energética del hogar.",
-      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/consejosfiscales111126",
-      "source": "OCU",
-      "published": "2026-11-11",
-      "keywords": [
-        "vivienda",
-        "suministros",
-        "luz",
-        "seguros"
-      ]
-    },
-    {
-      "title": "Alerta en los supermercados españoles: la OCU destapa la cadena para hacer la compra semanal por menos de 50 euros",
-      "summary": "Repaso al estudio anual de la OCU: la cadena Supermercados Dani aparece con el nivel de precios más bajo de España. Recuerda que elegir bien dónde comprar es una de las palancas de ahorro más grandes del hogar.",
-      "url": "https://www.moncloa.com/2026/10/14/ocu-supermercados-compra-3447876",
-      "source": "Moncloa.com",
-      "published": "2026-10-14",
-      "keywords": [
-        "supermercado",
-        "alimentacion",
-        "compras"
-      ]
-    },
-    {
-      "title": "Cuenta atrás para Black Friday",
-      "summary": "OCU recuerda que las ofertas del Black Friday no siempre son rebajas reales: el año pasado solo el 35% de 14.000 precios de electrónica y electrodomésticos bajó. Este año vuelve a monitorizar precios para comprobarlo.",
-      "url": "https://www.ocu.org/consumo-familia/compras-online/noticias/black-friday-cuenta-atras",
-      "source": "OCU",
-      "published": "2026-11-06",
-      "keywords": [
-        "compras",
-        "ocio",
-        "regalos",
-        "ropa"
-      ]
-    },
-    {
       "title": "OCU anima a los consumidores a aprovechar los CAES: hasta 3.000 euros por comprar un coche eléctrico",
       "summary": "OCU explica que los certificados de ahorro energético pueden aportar hasta 3.000 euros al cambiar un coche de combustión por uno eléctrico, más cuanto más antiguo y recorrido sea el vehículo. Recomienda calcular el importe y revisar los contratos de cesión, porque algunos operadores ofrecen cantidades fijas muy inferiores.",
       "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/caes181126",
@@ -744,18 +767,6 @@
         "coche",
         "transporte",
         "gasolina"
-      ]
-    },
-    {
-      "title": "Cártel de coches: OCU alerta de que el plazo para reclamar individualmente expira el 1 de diciembre",
-      "summary": "Quienes compraron un coche de 28 marcas entre 2006 y 2013 podrían reclamar hasta el 15 % del precio. El plazo individual acaba el 1 de diciembre, pero OCU mantiene abiertas sus demandas colectivas.",
-      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/cartelcoches191126",
-      "source": "OCU",
-      "published": "2026-11-19",
-      "keywords": [
-        "coche",
-        "transporte",
-        "compras"
       ]
     },
     {
@@ -771,14 +782,26 @@
       ]
     },
     {
-      "title": "Análisis OCU de pan de molde integral: el doble de fibra y un 30% más de proteínas",
-      "summary": "El análisis concluye que los panes integrales de marca blanca ofrecen calidad similar y cuestan hasta tres veces menos. Conviene comprobar que toda la harina sea integral antes de comprarlos.",
-      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/panmolde121126",
+      "title": "Contrato de alquiler de vivienda: los errores 10 errores que debes evitar",
+      "summary": "OCU repasa los puntos que conviene revisar antes de firmar un alquiler: identificación de las partes, renta ajustada a la ley, reparto de gastos y diferencia entre fianza y garantías adicionales. Incluye un modelo de contrato actualizado.",
+      "url": "https://www.ocu.org/fincas-y-casas/gestion/alquiler/analisis/2026/11/errores-comunes-en-contratos",
       "source": "OCU",
-      "published": "2026-11-12",
+      "published": "2026-11-18",
       "keywords": [
-        "supermercado",
-        "alimentacion"
+        "alquiler",
+        "vivienda"
+      ]
+    },
+    {
+      "title": "Cártel de coches: OCU alerta de que el plazo para reclamar individualmente expira el 1 de diciembre",
+      "summary": "Quienes compraron un coche de 28 marcas entre 2006 y 2013 podrían reclamar hasta el 15 % del precio. El plazo individual acaba el 1 de diciembre, pero OCU mantiene abiertas sus demandas colectivas.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/cartelcoches191126",
+      "source": "OCU",
+      "published": "2026-11-19",
+      "keywords": [
+        "coche",
+        "transporte",
+        "compras"
       ]
     }
   ]
