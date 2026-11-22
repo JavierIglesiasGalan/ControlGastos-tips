@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T05:15:58Z",
+  "updated_at": "2026-11-22T05:15:37Z",
   "methods": [
     {
       "key": "debt",
@@ -802,6 +802,18 @@
         "coche",
         "transporte",
         "compras"
+      ]
+    },
+    {
+      "published": "2026-11-20",
+      "source": "OCU",
+      "title": "Freidoras de aire: OCU identifica las opciones con mejor calidad-precio por menos de 50 euros",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/airfryers201126",
+      "summary": "OCU analiza 85 freidoras de aire y señala tres modelos fiables por menos de 50 euros. Avisa de que extras como pantalla digital o doble cubeta encarecen mucho el precio sin mejorar lo esencial.",
+      "keywords": [
+        "compras",
+        "luz",
+        "alimentacion"
       ]
     }
   ]
