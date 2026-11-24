@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T05:15:37Z",
+  "updated_at": "2026-11-24T05:15:17Z",
   "methods": [
     {
       "key": "debt",
@@ -814,6 +814,18 @@
         "compras",
         "luz",
         "alimentacion"
+      ]
+    },
+    {
+      "title": "Compra Colectiva de energía: ya tenemos ganador",
+      "summary": "La X Compra Colectiva de OCU elige a niba (Iberdrola) para la luz, con precio fijo 12 meses, sin permanencia y un ahorro estimado de unos 191 euros al año en un hogar tipo. En gas la oferta quedó desierta y la TUR sigue siendo la mejor opción.",
+      "url": "https://www.ocu.org/vivienda-y-energia/gas-luz/noticias/ganador-x-cce",
+      "source": "OCU",
+      "published": "2026-11-10",
+      "keywords": [
+        "luz",
+        "gas",
+        "suministros"
       ]
     }
   ]
