@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T05:15:17Z",
+  "updated_at": "2026-11-27T05:15:59Z",
   "methods": [
     {
       "key": "debt",
@@ -302,6 +302,17 @@
       "text": "Programa una transferencia automática al ahorro justo cuando cobres.",
       "source_url": "https://www.kiplinger.com/personal-finance/family-savings/types-of-budgeting-methods",
       "keywords": []
+    },
+    {
+      "title": "Comprueba la TAE antes de financiar compras en rebajas",
+      "text": "Aplazar una compra con tarjeta suele costar más del 20% TAE: pagar 1.000 € en cuotas de 100 € con un 22% TAE supone unos 103 € de intereses, que pueden anular el descuento. Planifica las compras con antelación y evita cuotas reducidas que alargan la deuda.",
+      "source_url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/bfendeudamiento261126",
+      "keywords": [
+        "deuda",
+        "credito",
+        "compras",
+        "prestamo"
+      ]
     }
   ],
   "news": [
@@ -826,6 +837,32 @@
         "luz",
         "gas",
         "suministros"
+      ]
+    },
+    {
+      "title": "Semana del Black Friday: OCU apenas detecta un 6% de chollos entre más de 12.000 precios analizados",
+      "summary": "OCU comparó más de 12.000 precios de electrónica y electrodomésticos y solo un 6% tiene un descuento real frente al precio más bajo reciente; ofrece herramientas para filtrar ofertas falsas.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/bfchollos231126",
+      "source": "OCU",
+      "published": "2026-11-24",
+      "keywords": [
+        "compras",
+        "ocio",
+        "regalos"
+      ]
+    },
+    {
+      "title": "Black Friday: OCU alerta del riesgo de endeudarse para aprovechar los descuentos",
+      "summary": "Financiar compras con tarjeta suele superar el 20% TAE y anula el descuento; OCU recomienda planificar, comprobar la TAE y evitar cuotas pequeñas que alargan la deuda.",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/bfendeudamiento261126",
+      "source": "OCU",
+      "published": "2026-11-26",
+      "keywords": [
+        "compras",
+        "deuda",
+        "credito",
+        "prestamo",
+        "regalos"
       ]
     }
   ]
