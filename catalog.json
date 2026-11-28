@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T05:15:59Z",
+  "updated_at": "2026-11-28T05:15:48Z",
   "methods": [
     {
       "key": "debt",
@@ -732,6 +732,18 @@
       ]
     },
     {
+      "title": "Compra Colectiva de energía: ya tenemos ganador",
+      "summary": "La X Compra Colectiva de OCU elige a niba (Iberdrola) para la luz, con precio fijo 12 meses, sin permanencia y un ahorro estimado de unos 191 euros al año en un hogar tipo. En gas la oferta quedó desierta y la TUR sigue siendo la mejor opción.",
+      "url": "https://www.ocu.org/vivienda-y-energia/gas-luz/noticias/ganador-x-cce",
+      "source": "OCU",
+      "published": "2026-11-10",
+      "keywords": [
+        "luz",
+        "gas",
+        "suministros"
+      ]
+    },
+    {
       "title": "10 Consejos fiscales de OCU para ahorrar en la próxima Declaración del IRPF",
       "summary": "OCU recuerda que antes de fin de año aún se puede reducir la cuota de la renta: aportar al plan de pensiones, planificar ganancias y pérdidas patrimoniales o mejorar la eficiencia energética del hogar.",
       "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/consejosfiscales111126",
@@ -828,18 +840,6 @@
       ]
     },
     {
-      "title": "Compra Colectiva de energía: ya tenemos ganador",
-      "summary": "La X Compra Colectiva de OCU elige a niba (Iberdrola) para la luz, con precio fijo 12 meses, sin permanencia y un ahorro estimado de unos 191 euros al año en un hogar tipo. En gas la oferta quedó desierta y la TUR sigue siendo la mejor opción.",
-      "url": "https://www.ocu.org/vivienda-y-energia/gas-luz/noticias/ganador-x-cce",
-      "source": "OCU",
-      "published": "2026-11-10",
-      "keywords": [
-        "luz",
-        "gas",
-        "suministros"
-      ]
-    },
-    {
       "title": "Semana del Black Friday: OCU apenas detecta un 6% de chollos entre más de 12.000 precios analizados",
       "summary": "OCU comparó más de 12.000 precios de electrónica y electrodomésticos y solo un 6% tiene un descuento real frente al precio más bajo reciente; ofrece herramientas para filtrar ofertas falsas.",
       "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/bfchollos231126",
@@ -863,6 +863,43 @@
         "credito",
         "prestamo",
         "regalos"
+      ]
+    },
+    {
+      "title": "Qué tarjeta usar para ahorrar en compras, viajes y cajeros",
+      "summary": "OCU repasa qué tarjeta conviene según el uso: compras con descuento, viajes en otra moneda o cajeros sin comisiones, y en qué fijarse al aplazar pagos en plena campaña de compras.",
+      "url": "https://www.ocu.org/dinero/tarjetas/noticias/mejores-tarjetas-segun-uso",
+      "source": "OCU",
+      "published": "2026-11-26",
+      "keywords": [
+        "credito",
+        "compras",
+        "viajes",
+        "regalos"
+      ]
+    },
+    {
+      "title": "Black Friday: evolución de precios",
+      "summary": "OCU analiza la evolución de los precios de miles de productos y concluye, un año más, que las rebajas anunciadas del Black Friday no son tan grandes como parecen.",
+      "url": "https://www.ocu.org/consumo-familia/compras-online/noticias/precios-black-friday-26",
+      "source": "OCU",
+      "published": "2026-11-27",
+      "keywords": [
+        "compras",
+        "regalos",
+        "ocio"
+      ]
+    },
+    {
+      "title": "Oportunidades Black Friday",
+      "summary": "OCU rastrea los precios online de miles de productos y señala en qué categorías se encuentran las mejores ofertas reales del Black Friday.",
+      "url": "https://www.ocu.org/consumo-familia/compras-online/noticias/mejores-ofertas-black-friday",
+      "source": "OCU",
+      "published": "2026-11-27",
+      "keywords": [
+        "compras",
+        "regalos",
+        "ocio"
       ]
     }
   ]
